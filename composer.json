@@ -1,0 +1,14 @@
+{
+  "name": "project/mywoke",
+  "description": "test project",
+  "type": "project",
+  "license": "mit",
+  "authors": [
+    {
+      "name": "wuzengman",
+      "email": "80904900@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
